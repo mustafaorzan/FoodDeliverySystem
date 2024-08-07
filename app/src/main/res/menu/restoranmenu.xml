@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/itemRestoranSiparis"
+        android:icon="@drawable/order"
+        android:title="Siparişler" />
+    <item
+        android:id="@+id/itemRestoranMenu"
+        android:icon="@drawable/menu"
+        android:title="Menü" />
+    <item
+        android:id="@+id/itemRestoranGecmis"
+        android:icon="@drawable/gecmis"
+        android:title="Geçmiş" />
+</menu>

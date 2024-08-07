@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/itemAdminRestoran"
+        android:icon="@drawable/restaurant_2"
+        android:title="Restoranlar" />
+    <item
+        android:id="@+id/itemAdminMusteri"
+        android:icon="@drawable/profil"
+        android:title="Müşteriler" />
+    <item
+        android:id="@+id/itemAdminKurye"
+        android:icon="@drawable/courier"
+        android:title="Kuryeler" />
+</menu>

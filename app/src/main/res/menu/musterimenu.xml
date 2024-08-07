@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/itemMusteriAnasayfa"
+        android:icon="@drawable/kesfet"
+        android:title="Keşfet" />
+    <item
+        android:id="@+id/itemMusteriRestoranlar"
+        android:icon="@drawable/restaurant_2"
+        android:title="Restoranlar" />
+    <item
+        android:id="@+id/itemMusteriSepet"
+        android:icon="@drawable/sepet"
+        android:title="Sepet" />
+    <item
+        android:id="@+id/itemMusteriGecmis"
+        android:icon="@drawable/gecmis"
+        android:title="Siparişlerim" />
+    <item
+        android:id="@+id/itemMusteriProfil"
+        android:icon="@drawable/profil"
+        android:title="Profil" />
+</menu>

@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">FoodDeliverySystem</string>
+
+    <string-array name="categories_txt">
+        <item>Kategori Seçiniz</item>
+        <item>Sandviç - Tost</item>
+        <item>Pastane - Fırın</item>
+        <item>Burger</item>
+        <item>Pide - Lahmacun</item>
+        <item>Pizza</item>
+        <item>Döner</item>
+        <item>Köfte - Kebap</item>
+        <item>Ev Yemekleri</item>
+        <item>Çiğ Köfte</item>
+        <item>Tavuk</item>
+    </string-array>
+
+    <string-array name="kanGrubu_txt">
+        <item>Kan Grubu Seçiniz</item>
+        <item>A rh +</item>
+        <item>B rh +</item>
+        <item>AB rh +</item>
+        <item>0 rh +</item>
+        <item>A rh -</item>
+        <item>B rh -</item>
+        <item>AB rh -</item>
+        <item>0 rh -</item>
+    </string-array>
+</resources>
